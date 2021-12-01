@@ -47,6 +47,10 @@ Join two streams:
 
 ### Links
 
+[The .BLD() community Meetup](https://www.meetup.com/bld-tech-talks/)
+
+[The .BLD() community YouTube channel](https://www.youtube.com/channel/UCBnrzJyB2zLu62UHDapM3iQ)
+
 [Apache Kafka](https://kafka.apache.org/)
 
 [Confluent Platform Quickstart](https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html)
@@ -54,3 +58,5 @@ Join two streams:
 [Twitter Developer: API](https://developer.twitter.com/en/products/twitter-api)
 
 [This code on GitHub](https://github.com/mrjink-medium/bldtc_2021)
+
+[The slides on SlideShare](https://www.slideshare.net/mrjink/bld-tech-conference-data-exploration-with-ksql/)
